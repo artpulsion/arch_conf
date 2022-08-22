@@ -6,3 +6,8 @@ localectl set-keymap --no-convert fr-latin1
 
 
 pacman -S xorg networkmanager 
+
+
+
+
+ajouter le mapping keyboard x11 dans ce repo
